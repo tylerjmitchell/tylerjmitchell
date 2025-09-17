@@ -1,1 +1,1 @@
-<img src="IMG_7807.jpeg" width="15%"> <img src="IMG_6857.jpeg" width="15%"> <img src="IMG_7041.JPEG" width="15%">
+<img src="https://raw.githubusercontent.com/tylerjmitchell/tylerjmitchell.github.io/refs/heads/main/images/pine.png" width = 25%>
